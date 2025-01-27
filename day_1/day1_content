@@ -1,0 +1,17 @@
+lists
+
+sets 
+    -accessing
+    -declaring
+    -methods
+
+multiple built-in functions for strings
+
+dictionary
+    -hashtables ~ dictionaries
+    -hashtable collision -conecept-
+    -hastable conversion to "array" -concept-
+
+in keyword: checks if a value is present in a sequence (list, range, string etc.).
+
+
